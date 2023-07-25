@@ -1,0 +1,10 @@
+{
+  "overlays": [
+    {
+      "name": "Cardiacs",
+      "image": "",
+      "x": 2504,
+      "y": 225
+    }
+  ]
+}
