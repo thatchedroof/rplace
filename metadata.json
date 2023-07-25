@@ -2,7 +2,7 @@
   "overlays": [
     {
       "name": "Cardiacs",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/thatchedroof/rplace/b018d382d3be94d15e1c46e27879e9979ce27bf6/pixil-frame-0.png",
       "x": 2504,
       "y": 225
     }
